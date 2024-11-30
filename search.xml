@@ -17823,7 +17823,8 @@ document.body.removeChild(downLink)
   <entry>
     <title>11-29 WayV KBS直拍数据</title>
     <url>/2024/11/29/11-29%20WayV%20KBS%E7%9B%B4%E6%8B%8D%E6%95%B0%E6%8D%AE/</url>
-    <content><![CDATA[<!DOCTYPE html>
+    <content><![CDATA[<span id="more"></span>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
@@ -17833,8 +17834,6 @@ document.body.removeChild(downLink)
             <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/jquery-ui.min.js"></script>
             <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/ResizeSensor.js"></script>
 
-<pre><code>        &lt;link rel=&quot;stylesheet&quot;  href=&quot;https://assets.pyecharts.org/assets/v5/jquery-ui.css&quot;&gt;
-</code></pre>
 </head>
 <body >
     <style>.box {  } </style>
@@ -37599,7 +37598,8 @@ document.body.removeChild(downLink)
   <entry>
     <title>11-29-IZNA-KBS直拍数据</title>
     <url>/2024/11/30/11-29-IZNA-KBS%E7%9B%B4%E6%8B%8D%E6%95%B0%E6%8D%AE/</url>
-    <content><![CDATA[<!DOCTYPE html>
+    <content><![CDATA[<span id="more"></span>
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
